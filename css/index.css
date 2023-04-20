@@ -3482,7 +3482,7 @@ body[data-type="music"] #an_music_bg {
 body[data-type="music"] #web_bg {
   display: none;
 }
-body[data-type="music"] .s-sticker div {
+body[data-type="music"] . div {
   color: var(--anzhiyu-white) !important;
 }
 [data-theme="dark"] body[data-type="music"] .page #page-header:before {
